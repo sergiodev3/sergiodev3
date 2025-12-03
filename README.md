@@ -42,12 +42,9 @@ Intereses:
   - Café
   - Teología
   - Lord of the rings 🧙‍♂️✨
-  - Basketball 🏀
-    Equipo favorito: Lakers 💜💛
-  - Fútbol ⚽
-    Equipo favorito: Cruz Azul (México) 🔵
-  - Anime 🍥
-    Favoritos:
+  - Basketball 🏀 Lakers 💜💛
+  - Fútbol ⚽Cruz Azul (México) 🔵
+  - Anime Favoritos 🍥:
       - Evangelion
       - Naruto
       - Death Note
