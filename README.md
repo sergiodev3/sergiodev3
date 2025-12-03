@@ -44,7 +44,7 @@ Intereses:
   - Lord of the rings 🧙‍♂️✨
   - Basketball 🏀 Lakers 💜💛
   - Fútbol ⚽Cruz Azul (México) 🔵
-  - Anime Favoritos 🍥:
+Anime Favoritos 🍥:
       - Evangelion
       - Naruto
       - Death Note
