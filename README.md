@@ -48,7 +48,6 @@ Intereses:
       - Evangelion
       - Naruto
       - Death Note
-  - Naturaleza
 ```
 
 <hr style="border:0;height:2px;background:linear-gradient(90deg,#FFD70044,#7B2FF244);" />
