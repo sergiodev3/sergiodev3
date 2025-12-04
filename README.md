@@ -26,13 +26,6 @@
   <img src="https://img.shields.io/badge/MongoDB-FFD700?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-## <span style="color:#7B2FF2">📈 Estadísticas</span>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sergiodev3&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergiodev3&theme=tokyonight" />
-</p>
-
 ## <span style="color:#FFD700">🎯 Extras divertidos</span>
 
 ```yaml
