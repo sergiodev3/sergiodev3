@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hola,+soy+Sergio!;Desarrollador+Fullstack;Apasionado+por+la+tecnolog%C3%ADa+%F0%9F%9A%80&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hola,+soy+SergioDev3!;Desarrollador+Fullstack;Apasionado+por+la+tecnolog%C3%ADa+%F0%9F%9A%80&center=true&width=380&height=45">
 </div>
 
 <h1 align="center" style="color:#7B2FF2;"><span style="background:linear-gradient(90deg,#FFD70033,#7B2FF233);padding:0.2em 0.6em;border-radius:10px;">👋 ¡Hola! Soy Sergiodev3</span></h1>
